@@ -8,7 +8,7 @@
 #                                    __/ |
 #                                   |___/ 
 font:
-  size: 10
+  size: 11
  # Normal (roman) font face
   normal:
     # Font family
@@ -54,9 +54,9 @@ cursor:
   style:
     shape: Beam
     blinking: Always
-  blink_interval: 900
+  blink_interval: 700
   unfocused_hollow: true
-  thickness: 0.15
+  thickness: 0.10
 window:
   decorations: none
   padding:
