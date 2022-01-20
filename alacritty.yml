@@ -31,25 +31,25 @@ colors:
 
   # Normal colors
   normal:
-    black:   '0x10100E'
-    red:     '0xC40233'
-    green:   '0x009F6B'
-    yellow:  '0xFFD700'
+    black:   '#21202e'
+    red:     '#eb6f92'
+    green:   '#31748f'
+    yellow:  '#f6c177'
     blue:    '0x0087BD'
-    magenta: '0x9A4EAE'
+    magenta: '#c4a7e7'
     cyan:    '0x20B2AA'
-    white:   '0xC6C6C4'
+    white:   '#e0def4'
 
   # Bright colors
   bright:
-    black:   '0x696969'
-    red:     '0xFF2400'
-    green:   '0x03C03C'
-    yellow:  '0xFDFF00'
+    black:   '#232136'
+    red:     '#eb6f92'
+    green:   '#3e8fb0'
+    yellow:  '#f6c177'
     blue:    '0x007FFF'
-    magenta: '0xFF1493'
+    magenta: '#c4a7e7'
     cyan:    '0x00CCCC'
-    white:   '0xFFFAFA'
+    white:   '#e0def4'
 
 cursor:
   style:
