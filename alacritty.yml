@@ -8,7 +8,7 @@
 #                                    __/ |
 #                                   |___/ 
 font:
-  size: 12
+  size: 11
  # Normal (roman) font face
   normal:
     # Font family
@@ -17,40 +17,39 @@ font:
     #   - (macOS) Menlo
     #   - (Linux/BSD) monospace
     #   - (Windows) Consolas
-    family: JetBrainsMono Nerd Font
+    family: Space-mono Nerd Font
 
     # The `style` can be specified to pick a specific face.
     style: Regular
 
   # Normal colors
 colors:
-  # Default colors
   primary:
-    background: '#1f1d2e'
-    foreground: '0xC6C6C4'
+    background: '#0a0a0a'
+    foreground: '0xdfbf8e'
 
-  # Normal colors
   normal:
-    black:   '#21202e'
-    red:     '#eb6f92'
-    green:   '#31748f'
-    yellow:  '#f6c177'
-    blue:    '0x0087BD'
-    magenta: '#c4a7e7'
-    cyan:    '0x20B2AA'
-    white:   '#e0def4'
+    black:   '#fbf1c7'
+    black:   '#282828'
+    red:     '#cc241d'
+    green:   '#98971a'
+    yellow:  '#d79921'
+    blue:    '#458588'
+    magenta: '#b16286'
+    cyan:    '#689d6a'
+    white:   '#7c6f64'
+    white:   '#a89984'
 
   # Bright colors
   bright:
-    black:   '#232136'
-    red:     '#eb6f92'
-    green:   '#3e8fb0'
-    yellow:  '#f6c177'
-    blue:    '0x007FFF'
-    magenta: '#c4a7e7'
-    cyan:    '0x00CCCC'
-    white:   '#e0def4'
-
+    black:   '#928374'
+    red:     '#9d0006'
+    green:   '#79740e'
+    yellow:  '#b57614'
+    blue:    '#076678'
+    magenta: '#8f3f71'
+    cyan:    '#427b58'
+    white:   '#3c3836'
 cursor:
   style:
     shape: Beam
